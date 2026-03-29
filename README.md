@@ -111,7 +111,7 @@ Perfect combo for:
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://i.ibb.co/0R7m6Qws/2026-03-29-22-39.png">
+  <img src="https://i.ibb.co/SDBSKrjt/3.png">
 </p>
 
 ---
