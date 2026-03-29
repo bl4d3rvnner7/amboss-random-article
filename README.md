@@ -1,4 +1,4 @@
-# 🎲 AMBOSS Random Article
+# AMBOSS Random Article
 
 <p align="center">
   <b>One-click random learning for AMBOSS</b><br>
