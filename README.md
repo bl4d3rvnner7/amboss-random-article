@@ -48,7 +48,6 @@ This tool leverages that.
 
 * Adds a floating **"Random Article"** button to AMBOSS
 * Instantly opens a random article from a curated pool (**2300+ articles**)
-* Auto-detects language (`Zufälliger Artikel` / `Random Article`)
 * Matches AMBOSS UI styling (native look)
 * Dark mode by default (blends into AMBOSS interface)
 * Works with React navigation (SPA-safe)
@@ -74,7 +73,7 @@ This tool leverages that.
 
 ### 2️⃣ Install Script
 
-👉 GreasyFork: `#`
+👉 GreasyFork: https://greasyfork.org/en/scripts/571726-amboss-random-article
 👉 Or raw install:
 [https://raw.githubusercontent.com/bl4d3rvnner7/amboss-random-article/main/script.js](https://raw.githubusercontent.com/bl4d3rvnner7/amboss-random-article/main/script.js)
 
