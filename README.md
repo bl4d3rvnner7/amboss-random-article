@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="#">
+  <a href="https://greasyfork.org/en/scripts/571726-amboss-random-article">
     <img src="https://img.shields.io/badge/Install-GreasyFork-darkgreen?style=for-the-badge&logo=greasyfork">
   </a>
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge">
